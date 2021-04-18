@@ -1,0 +1,100 @@
+form {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+
+  background: #ffd1ff;
+}
+
+h1 {
+  max-width: 50px;
+  margin: 50px;
+  width: 500px;
+  position: relative;
+  left: 20%;
+  top: 25px;
+  font-family: "Pacifico", cursive;
+}
+
+p {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+}
+
+h2 {
+  position: relative;
+  left: 28%;
+  font-family: "Pacifico", cursive;
+  border-radius: 10px;
+  max-width: 170px;
+}
+
+h3 {
+  position: relative;
+  left: 29%;
+  top: 20px;
+  font-family: "Pacifico", cursive;
+  font-size: 50px;
+  border-radius: 10px;
+  max-width: 100px;
+}
+
+h4 {
+  position: relative;
+  left: 40%;
+  font-family: "Pacifico", cursive;
+  max-width: 230px;
+
+  border-radius: 4px;
+}
+
+.col {
+  max-width: 100px;
+  position: relative;
+  left: 27%;
+  font-family: "Pacifico", cursive;
+}
+.fa-circle {
+  position: relative;
+  left: 25%;
+  font-size: 100px;
+  color: #a18cd1;
+  opacity: 0.3;
+}
+
+img {
+  max-width: 500px;
+  position: relative;
+  left: 50%;
+  top: -500px;
+}
+.image1 {
+  position: relative;
+  left: -47%;
+  top: -360px;
+  max-width: 300px;
+}
+
+.image2 {
+  position: relative;
+  left: -35%;
+  top: -470px;
+  max-width: 170px;
+}
+.container {
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+  border-radius: 30px;
+}
+
+ul {
+  font-size: 15px;
+  position: relative;
+  left: 460px;
+  top: -40px;
+}
+button {
+  position: relative;
+  left: 70%;
+  font-size: 20px;
+  top: -300px;
+}
+
